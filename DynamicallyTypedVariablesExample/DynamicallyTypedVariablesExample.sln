@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicallyTypedVariablesExample", "DynamicallyTypedVariablesExample\DynamicallyTypedVariablesExample.csproj", "{EDF64C1F-B388-4D3A-AE0C-BAA00EE12C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{53E1D374-8178-4524-B503-C25DB1A9D23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF64C1F-B388-4D3A-AE0C-BAA00EE12C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF64C1F-B388-4D3A-AE0C-BAA00EE12C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF64C1F-B388-4D3A-AE0C-BAA00EE12C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF64C1F-B388-4D3A-AE0C-BAA00EE12C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E1D374-8178-4524-B503-C25DB1A9D23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E1D374-8178-4524-B503-C25DB1A9D23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E1D374-8178-4524-B503-C25DB1A9D23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E1D374-8178-4524-B503-C25DB1A9D23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C12519-81A8-4139-9618-A434749536BD}
+	EndGlobalSection
+EndGlobal

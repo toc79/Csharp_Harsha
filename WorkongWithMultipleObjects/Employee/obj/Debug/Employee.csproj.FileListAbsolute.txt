@@ -1,0 +1,6 @@
+G:\My Documents\Visual Studio 2022\CSharp\WorkongWithMultipleObjects\Employee\bin\Debug\Employee.dll
+G:\My Documents\Visual Studio 2022\CSharp\WorkongWithMultipleObjects\Employee\bin\Debug\Employee.pdb
+G:\My Documents\Visual Studio 2022\CSharp\WorkongWithMultipleObjects\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\WorkongWithMultipleObjects\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\WorkongWithMultipleObjects\Employee\obj\Debug\Employee.dll
+G:\My Documents\Visual Studio 2022\CSharp\WorkongWithMultipleObjects\Employee\obj\Debug\Employee.pdb

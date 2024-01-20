@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+G:\My Documents\Visual Studio 2022\CSharp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+G:\My Documents\Visual Studio 2022\CSharp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+G:\My Documents\Visual Studio 2022\CSharp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb

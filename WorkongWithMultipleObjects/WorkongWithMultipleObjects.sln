@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkongWithMultipleObjects", "WorkongWithMultipleObjects\WorkongWithMultipleObjects.csproj", "{1CEE3D9B-CD64-4890-9E7B-51D533108848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Employee\Employee.csproj", "{EFE65018-4EE2-4055-AE3F-A4EC8409337C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CEE3D9B-CD64-4890-9E7B-51D533108848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEE3D9B-CD64-4890-9E7B-51D533108848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEE3D9B-CD64-4890-9E7B-51D533108848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEE3D9B-CD64-4890-9E7B-51D533108848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE65018-4EE2-4055-AE3F-A4EC8409337C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE65018-4EE2-4055-AE3F-A4EC8409337C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE65018-4EE2-4055-AE3F-A4EC8409337C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE65018-4EE2-4055-AE3F-A4EC8409337C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A82DC250-DDE7-4CEE-8426-A393FD9BB379}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+G:\My Documents\Visual Studio 2022\CSharp\ObjectClassExample\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+G:\My Documents\Visual Studio 2022\CSharp\ObjectClassExample\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+G:\My Documents\Visual Studio 2022\CSharp\ObjectClassExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\ObjectClassExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\ObjectClassExample\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+G:\My Documents\Visual Studio 2022\CSharp\ObjectClassExample\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

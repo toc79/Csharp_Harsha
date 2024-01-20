@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\NearestThousands\NearestThousands\obj\Debug\NearestThousands.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\NearestThousands\NearestThousands\obj\Debug\NearestThousands.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\NearestThousands\NearestThousands\bin\Debug\NearestThousands.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\NearestThousands\NearestThousands\bin\Debug\NearestThousands.exe
+G:\My Documents\Visual Studio 2022\CSharp\NearestThousands\NearestThousands\bin\Debug\NearestThousands.pdb
+G:\My Documents\Visual Studio 2022\CSharp\NearestThousands\NearestThousands\obj\Debug\NearestThousands.exe
+G:\My Documents\Visual Studio 2022\CSharp\NearestThousands\NearestThousands\obj\Debug\NearestThousands.pdb

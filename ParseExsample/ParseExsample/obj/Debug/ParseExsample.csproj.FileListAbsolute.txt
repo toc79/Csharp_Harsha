@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\ParseExsample\ParseExsample\obj\Debug\ParseExsample.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\ParseExsample\ParseExsample\obj\Debug\ParseExsample.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\ParseExsample\ParseExsample\bin\Debug\ParseExsample.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\ParseExsample\ParseExsample\bin\Debug\ParseExsample.exe
+G:\My Documents\Visual Studio 2022\CSharp\ParseExsample\ParseExsample\bin\Debug\ParseExsample.pdb
+G:\My Documents\Visual Studio 2022\CSharp\ParseExsample\ParseExsample\obj\Debug\ParseExsample.exe
+G:\My Documents\Visual Studio 2022\CSharp\ParseExsample\ParseExsample\obj\Debug\ParseExsample.pdb

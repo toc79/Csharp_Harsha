@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\Assigment24_ATM_PIN_Validation\Assigment24_ATM_PIN_Validation\bin\Debug\Assigment24_ATM_PIN_Validation.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\Assigment24_ATM_PIN_Validation\Assigment24_ATM_PIN_Validation\bin\Debug\Assigment24_ATM_PIN_Validation.exe
+G:\My Documents\Visual Studio 2022\CSharp\Assigment24_ATM_PIN_Validation\Assigment24_ATM_PIN_Validation\bin\Debug\Assigment24_ATM_PIN_Validation.pdb
+G:\My Documents\Visual Studio 2022\CSharp\Assigment24_ATM_PIN_Validation\Assigment24_ATM_PIN_Validation\obj\Debug\Assigment24_ATM_PIN_Validation.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\Assigment24_ATM_PIN_Validation\Assigment24_ATM_PIN_Validation\obj\Debug\Assigment24_ATM_PIN_Validation.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\Assigment24_ATM_PIN_Validation\Assigment24_ATM_PIN_Validation\obj\Debug\Assigment24_ATM_PIN_Validation.exe
+G:\My Documents\Visual Studio 2022\CSharp\Assigment24_ATM_PIN_Validation\Assigment24_ATM_PIN_Validation\obj\Debug\Assigment24_ATM_PIN_Validation.pdb
