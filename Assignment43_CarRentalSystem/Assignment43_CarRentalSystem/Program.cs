@@ -18,12 +18,26 @@ namespace Assignment43_CarRentalSystem
 		public double RentalPrice { get { return rentalPrice; } set { rentalPrice = value; } }
 		public bool Rented { get { return rented; } set { rented = value; } }
 
+		public int CarID { get; set; }
+
+		//I have not created constructor but it works anyway. Example of constructor 
+		//public Car(int id, string make, string model, int rentalPrice, bool isAvailable)
+		//{
+		//	Id = id;
+		//	Make = make;
+		//	Model = model;
+		//	RentalPrice = rentalPrice;
+		//	IsAvailable = isAvailable;
+		//}
+
+
 		//method for renting the car
 		public bool Rent()
 		{
 			if (rented == false)
 			{
 				rented = true;
+				Console.WriteLine("Rented the " + make + " " + model + " for $" + rentalPrice + " / day.");
 				return true;
 			} 
 			else
@@ -39,11 +53,12 @@ namespace Assignment43_CarRentalSystem
 			if (rented == true)
 			{
 				rented = false;
+				Console.WriteLine("Returned the " + make + " " + model + ".");
 				return true;
 			}
 			else
 			{
-				Console.WriteLine("Selected car " + model + "can not be returned because it is not rented!");
+				Console.WriteLine("Selected car " + model + " can not be returned because it is not rented!");
 				return false;
 			}
 		}
@@ -51,7 +66,7 @@ namespace Assignment43_CarRentalSystem
 		//method for printing info
 		public void PrintInfo()
 		{
-			Console.WriteLine(model + "(Rental price: " + rentalPrice + "/day) - " + (rented ? "Rented" : "Available"));
+			Console.WriteLine(CarID +". " + model + "(Rental price: " + rentalPrice + "/day) - " + (rented ? "Rented" : "Available"));
 		}
 	}
 
@@ -67,10 +82,18 @@ namespace Assignment43_CarRentalSystem
 		{
 			Console.WriteLine("Welcome to the car rental system!");
 
+			//creating Car object 1  
+			//Car[] myCars = new Car[] { 
+			//	new Car() { Make = "Toyota", Model = "Corola", RentalPrice = 50, Rented = false},
+			//	new Car() { Make = "Honda", Model = "Civic", RentalPrice = 60, Rented = false},
+			//	new Car() { Make = "Ford", Model = "Mustang", RentalPrice = 80, Rented = false},
+			//};
+			
+			//creating Car object 2
 			Car[] myCars = new Car[] { 
-				new Car() { Make = "Toyota", Model = "Corola", RentalPrice = 50, Rented = false},
-				new Car() { Make = "Honda", Model = "Civic", RentalPrice = 60, Rented = false},
-				new Car() { Make = "Ford", Model = "Mustang", RentalPrice = 80, Rented = false},
+				new Car() {CarID = 1, Make = "Toyota", Model = "Corola", RentalPrice = 50, Rented = false},
+				new Car() {CarID = 2, Make = "Honda", Model = "Civic", RentalPrice = 60, Rented = false},
+				new Car() {CarID = 3, Make = "Ford", Model = "Mustang", RentalPrice = 80, Rented = false},
 			};
 
 			void PrintInfoAll()
@@ -96,7 +119,7 @@ namespace Assignment43_CarRentalSystem
 			//	};
 
 			string enteredChoice = "";
-			int no_choice = 0;
+			//int no_choice = 0;
 
 			do
 			{
@@ -131,57 +154,52 @@ namespace Assignment43_CarRentalSystem
 				switch (enteredChoice)
 				{
 					case "1":
-						//Console.WriteLine(menu2.Where(c => c.ChoiceID == "1"));
 						Console.WriteLine("\n" + menu[int.Parse(enteredChoice)]);
 						PrintInfoAll();
+						Console.Write("Please enter the ID of the car you want to rent: ");
+						enteredChoice = Console.ReadLine();
+						if (enteredChoice =="1" || enteredChoice == "2"  || enteredChoice == "3" )
+						{
+							foreach (Car item in myCars)
+							{
+								if (item.CarID == int.Parse(enteredChoice))
+								{
+									item.Rent();
+								}
+							}
+						} else
+							Console.WriteLine("\nEntered choice does not exists!");
 						break;
 					case "2":
+						Console.WriteLine("\n" + menu[int.Parse(enteredChoice)]);
+						PrintInfoAll();
+						Console.Write("Please enter the ID of the car you want to return: ");
+						enteredChoice = Console.ReadLine();
+						if (enteredChoice == "1" || enteredChoice == "2" || enteredChoice == "3")
+						{
+							foreach (Car item in myCars)
+							{
+								if (item.CarID == int.Parse(enteredChoice))
+								{
+									item.Return();
+								}
+							}
+						}
+						else
+							Console.WriteLine("\nEntered choice does not exists!");
 						break;
 					case "3":
+						Console.WriteLine("\n" + menu[int.Parse(enteredChoice)]);
+						PrintInfoAll();
 						break;
 					case "4":
 						break;
 					default:
-						Console.WriteLine("\nEntered choice does not exists!\"");
+						Console.WriteLine("\nEntered choice does not exists!");
 						break;
 
 				}
-
-
-				//if (no_choice == 1 || no_choice == 2 || no_choice == 3)
-				//{
-				//	Console.WriteLine("\n" +menu[no_choice - 1]);
-
-				//	int carNumber = 1;
-
-				//	foreach (Car item in myCars)
-				//	{
-				//		Console.Write(carNumber +". ");
-				//		item.PrintInfo();
-				//		carNumber++;
-				//	}
-				//for (int i = 0; i < myCars.Length; i++)
-				//{
-				//	Console.Write(i + 1 + ". ");
-				//	myCars
-				//}
-
-				//}
-				//else if (no_choice == 0)
-				//{
-				//	Console.WriteLine("Entered choice does not exists!");
-				//	no_choice = 0;
-				//}
-
-				//else
-				//{
-				//	Console.WriteLine("Entered choice does not exists!");
-				//	no_choice = 0;
-				//}
-
 			} while (enteredChoice != "4");
-
-			//while ( no_choice != 4); //no_choice == 0 &&
 
 			Console.WriteLine("Thank you for using the car rental system!");
 			Console.ReadKey();
