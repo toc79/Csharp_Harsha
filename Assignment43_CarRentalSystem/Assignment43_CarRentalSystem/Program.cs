@@ -1,5 +1,6 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
+using System.Collections.Concurrent;
+using System.Linq;
 
 namespace Assignment43_CarRentalSystem
 {
@@ -35,7 +36,7 @@ namespace Assignment43_CarRentalSystem
 		//method for returnig the car
 		public bool Return()
 		{
-			if(rented == true)
+			if (rented == true)
 			{
 				rented = false;
 				return true;
@@ -54,11 +55,17 @@ namespace Assignment43_CarRentalSystem
 		}
 	}
 
+	class MenuChoices
+	{
+		public string ChoiceID { get; set;}
+		public string Choice { get; set; }
+	}
+
 	class Program
 	{
 		static void Main()
 		{
-			int? no_choice = null;
+			Console.WriteLine("Welcome to the car rental system!");
 
 			Car[] myCars = new Car[] { 
 				new Car() { Make = "Toyota", Model = "Corola", RentalPrice = 50, Rented = false},
@@ -66,52 +73,119 @@ namespace Assignment43_CarRentalSystem
 				new Car() { Make = "Ford", Model = "Mustang", RentalPrice = 80, Rented = false},
 			};
 
+			void PrintInfoAll()
+			{
+				foreach (Car item in myCars)
+				{
+					item.PrintInfo();
+				}
+			}
+
+			// create array of menu choices 1
+			//string[] menu = new string[4] { "Rent a car", "Return a car", "View available cars", "Exit" };
+
+			// create array of menu choices 2
+			string[] menu = new string[5] { "", "Rent a car", "Return a car", "View available cars", "Exit" };
+
+			// create array of menu choices 3
+			//MenuChoices[] menu2 = new MenuChoices[] {
+			//		new MenuChoices() {ChoiceID = "1", Choice = "Rent a car"},
+			//		new MenuChoices() {ChoiceID = "2", Choice = "Return a car"},
+			//		new MenuChoices() {ChoiceID = "3", Choice = "View available cars"},
+			//		new MenuChoices() {ChoiceID = "4", Choice = "Exit"}
+			//	};
+
+			string enteredChoice = "";
+			int no_choice = 0;
+
 			do
 			{
-				Menu();
-			}
-			while (no_choice.HasValue && no_choice != 4);
-				
-			
+				Console.WriteLine("\nMenu:");
+				// menu 1
+				//for (int i = 0; i < menu.Length; i++)
+				//{
+				//	Console.WriteLine(i + 1 + ". " + menu[i]);
+				//}
 
+				// menu 2
+				for (int i = 1; i < menu.Length; i++)
+				{
+					Console.WriteLine(i + ". " + menu[i]);
+				}
+
+				//menu 3
+				//foreach (MenuChoices item in menu2)
+				//{
+				//	Console.WriteLine(item.ChoiceID + ". " + item.Choice);
+				//}
+
+
+				Console.Write("Please enter your choice: ");
+				//bool choiceValid = int.TryParse(Console.ReadLine(), out int no_choice_out);
+				//no_choice = no_choice_out;
+				enteredChoice = Console.ReadLine();
+
+				//Console.WriteLine("\n" + menu[int.Parse(enteredChoice)]); RUNTIME ERROR WHEN CHOSING 5
+				//PrintInfoAll();
+
+				switch (enteredChoice)
+				{
+					case "1":
+						//Console.WriteLine(menu2.Where(c => c.ChoiceID == "1"));
+						Console.WriteLine("\n" + menu[int.Parse(enteredChoice)]);
+						PrintInfoAll();
+						break;
+					case "2":
+						break;
+					case "3":
+						break;
+					case "4":
+						break;
+					default:
+						Console.WriteLine("\nEntered choice does not exists!\"");
+						break;
+
+				}
+
+
+				//if (no_choice == 1 || no_choice == 2 || no_choice == 3)
+				//{
+				//	Console.WriteLine("\n" +menu[no_choice - 1]);
+
+				//	int carNumber = 1;
+
+				//	foreach (Car item in myCars)
+				//	{
+				//		Console.Write(carNumber +". ");
+				//		item.PrintInfo();
+				//		carNumber++;
+				//	}
+				//for (int i = 0; i < myCars.Length; i++)
+				//{
+				//	Console.Write(i + 1 + ". ");
+				//	myCars
+				//}
+
+				//}
+				//else if (no_choice == 0)
+				//{
+				//	Console.WriteLine("Entered choice does not exists!");
+				//	no_choice = 0;
+				//}
+
+				//else
+				//{
+				//	Console.WriteLine("Entered choice does not exists!");
+				//	no_choice = 0;
+				//}
+
+			} while (enteredChoice != "4");
+
+			//while ( no_choice != 4); //no_choice == 0 &&
+
+			Console.WriteLine("Thank you for using the car rental system!");
 			Console.ReadKey();
-
-
 			
-			void Menu()
-			{
-
-				//Console.WriteLine("Menu:\r\n1. Rent a car\r\n2. Return a car\r\n3. View available cars\r\n4. Exit\r\n\nPlease enter your choice:");
-				
-				// create array of menu choices
-				string[] menu = new string[4] {"Rent a car", "Return a car", "View available cars", "Exit" };
-								
-				Console.WriteLine("Menu:");
-				for(int i = 0; i<menu.Length; i++)
-				{
-					Console.WriteLine(i + 1 + ". " + menu[i]);
-				}
-				
-				
-
-				Console.Write("Please enter your choice:");
-				string choice = "";
-				//choice = Console.ReadLine();
-
-
-				if (choice == "1" || choice == "2" || choice == "3" || choice == "4")
-				{
-					no_choice = int.Parse(choice);
-				}
-				else
-				{
-					Console.WriteLine("Entered choice does not exists!");
-					no_choice = 0;
-				}
-
-				Console.WriteLine(choice);
-
-			}
 		}
 	}
 }
