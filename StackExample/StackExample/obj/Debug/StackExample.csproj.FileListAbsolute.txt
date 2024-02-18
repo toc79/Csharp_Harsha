@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\StackExample\StackExample\bin\Debug\StackExample.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\StackExample\StackExample\bin\Debug\StackExample.exe
+G:\My Documents\Visual Studio 2022\CSharp\StackExample\StackExample\bin\Debug\StackExample.pdb
+G:\My Documents\Visual Studio 2022\CSharp\StackExample\StackExample\obj\Debug\StackExample.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\StackExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\StackExample\StackExample\obj\Debug\StackExample.exe
+G:\My Documents\Visual Studio 2022\CSharp\StackExample\StackExample\obj\Debug\StackExample.pdb
