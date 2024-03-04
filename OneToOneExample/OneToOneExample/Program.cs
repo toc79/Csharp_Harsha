@@ -14,12 +14,26 @@ namespace OneToOneExample
 			student.Email = "scott@gmail.com";
 
 			//Branch class's object
-			Branch br = new Branch();
-			br.BranchName = "Computer Science Engineering";
-			br.NoOfSemesters = 8;
+			//Branch br = new Branch();
+			//br.BranchName = "Computer Science Engineering";
+			//br.NoOfSemesters = 8;
 
-			//one-to-one reletion // Object reletions
-			student.branch = br;
+			//one-to-one relation // Object reletions
+			//student.branch = br;
+
+			//Branch class's object 
+			student.branch = new Branch();
+			student.branch.BranchName = "Computer Science Engineering";
+			student.branch.NoOfSemesters = 8;
+
+			//display
+			Console.WriteLine(student.RollNo);
+			Console.WriteLine(student.StudentName);
+			Console.WriteLine(student.Email);
+			Console.WriteLine(student.branch.BranchName);
+			Console.WriteLine(student.branch.NoOfSemesters);
+
+			Console.ReadKey();
 		}
 	}
 }
