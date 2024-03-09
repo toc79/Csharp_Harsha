@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\IteratorExample\IteratorExample\bin\Debug\IteratorExample.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\IteratorExample\IteratorExample\bin\Debug\IteratorExample.exe
+G:\My Documents\Visual Studio 2022\CSharp\IteratorExample\IteratorExample\bin\Debug\IteratorExample.pdb
+G:\My Documents\Visual Studio 2022\CSharp\IteratorExample\IteratorExample\obj\Debug\IteratorExample.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\IteratorExample\IteratorExample\obj\Debug\IteratorExample.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\IteratorExample\IteratorExample\obj\Debug\IteratorExample.exe
+G:\My Documents\Visual Studio 2022\CSharp\IteratorExample\IteratorExample\obj\Debug\IteratorExample.pdb
