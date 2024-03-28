@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\TestTrimMethod\TestTrimMethod\bin\Debug\TestTrimMethod.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\TestTrimMethod\TestTrimMethod\bin\Debug\TestTrimMethod.exe
+G:\My Documents\Visual Studio 2022\CSharp\TestTrimMethod\TestTrimMethod\bin\Debug\TestTrimMethod.pdb
+G:\My Documents\Visual Studio 2022\CSharp\TestTrimMethod\TestTrimMethod\obj\Debug\TestTrimMethod.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\TestTrimMethod\TestTrimMethod\obj\Debug\TestTrimMethod.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\TestTrimMethod\TestTrimMethod\obj\Debug\TestTrimMethod.exe
+G:\My Documents\Visual Studio 2022\CSharp\TestTrimMethod\TestTrimMethod\obj\Debug\TestTrimMethod.pdb
