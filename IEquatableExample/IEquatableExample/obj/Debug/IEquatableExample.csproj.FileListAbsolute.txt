@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IEquatableExample\IEquatableExample\bin\Debug\IEquatableExample.exe.config
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IEquatableExample\IEquatableExample\bin\Debug\IEquatableExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IEquatableExample\IEquatableExample\bin\Debug\IEquatableExample.pdb
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IEquatableExample\IEquatableExample\obj\Debug\IEquatableExample.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IEquatableExample\IEquatableExample\obj\Debug\IEquatableExample.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IEquatableExample\IEquatableExample\obj\Debug\IEquatableExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IEquatableExample\IEquatableExample\obj\Debug\IEquatableExample.pdb

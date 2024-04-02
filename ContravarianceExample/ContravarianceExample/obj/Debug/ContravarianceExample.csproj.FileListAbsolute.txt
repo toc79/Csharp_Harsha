@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\ContravarianceExample\ContravarianceExample\bin\Debug\ContravarianceExample.exe.config
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\ContravarianceExample\ContravarianceExample\bin\Debug\ContravarianceExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\ContravarianceExample\ContravarianceExample\bin\Debug\ContravarianceExample.pdb
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\ContravarianceExample\ContravarianceExample\obj\Debug\ContravarianceExample.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\ContravarianceExample\ContravarianceExample\obj\Debug\ContravarianceExample.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\ContravarianceExample\ContravarianceExample\obj\Debug\ContravarianceExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\ContravarianceExample\ContravarianceExample\obj\Debug\ContravarianceExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparerExample\IComparerExample\bin\Debug\IComparerExample.exe.config
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparerExample\IComparerExample\bin\Debug\IComparerExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparerExample\IComparerExample\bin\Debug\IComparerExample.pdb
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparerExample\IComparerExample\obj\Debug\IComparerExample.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparerExample\IComparerExample\obj\Debug\IComparerExample.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparerExample\IComparerExample\obj\Debug\IComparerExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparerExample\IComparerExample\obj\Debug\IComparerExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparableExample\IComparableExample\bin\Debug\IComparableExample.exe.config
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparableExample\IComparableExample\bin\Debug\IComparableExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparableExample\IComparableExample\bin\Debug\IComparableExample.pdb
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparableExample\IComparableExample\obj\Debug\IComparableExample.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparableExample\IComparableExample\obj\Debug\IComparableExample.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparableExample\IComparableExample\obj\Debug\IComparableExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IComparableExample\IComparableExample\obj\Debug\IComparableExample.pdb

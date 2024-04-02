@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IListExample\IListExample\bin\Debug\IListExample.exe.config
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IListExample\IListExample\bin\Debug\IListExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IListExample\IListExample\bin\Debug\IListExample.pdb
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IListExample\IListExample\obj\Debug\IListExample.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IListExample\IListExample\obj\Debug\IListExample.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IListExample\IListExample\obj\Debug\IListExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\IListExample\IListExample\obj\Debug\IListExample.pdb

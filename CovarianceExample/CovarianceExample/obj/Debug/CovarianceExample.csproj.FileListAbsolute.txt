@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\CovarianceExample\CovarianceExample\bin\Debug\CovarianceExample.exe.config
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\CovarianceExample\CovarianceExample\bin\Debug\CovarianceExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\CovarianceExample\CovarianceExample\bin\Debug\CovarianceExample.pdb
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\CovarianceExample\CovarianceExample\obj\Debug\CovarianceExample.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\CovarianceExample\CovarianceExample\obj\Debug\CovarianceExample.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\CovarianceExample\CovarianceExample\obj\Debug\CovarianceExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\CovarianceExample\CovarianceExample\obj\Debug\CovarianceExample.pdb
