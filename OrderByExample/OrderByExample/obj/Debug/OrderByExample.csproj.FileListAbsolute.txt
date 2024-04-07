@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\OrderByExample\OrderByExample\obj\Debug\OrderByExample.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\OrderByExample\OrderByExample\obj\Debug\OrderByExample.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\OrderByExample\OrderByExample\bin\Debug\OrderByExample.exe.config
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\OrderByExample\OrderByExample\bin\Debug\OrderByExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\OrderByExample\OrderByExample\bin\Debug\OrderByExample.pdb
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\OrderByExample\OrderByExample\obj\Debug\OrderByExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\OrderByExample\OrderByExample\obj\Debug\OrderByExample.pdb

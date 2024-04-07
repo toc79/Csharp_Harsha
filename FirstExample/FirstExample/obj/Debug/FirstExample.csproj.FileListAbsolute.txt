@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\FirstExample\FirstExample\bin\Debug\FirstExample.exe.config
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\FirstExample\FirstExample\bin\Debug\FirstExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\FirstExample\FirstExample\bin\Debug\FirstExample.pdb
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\FirstExample\FirstExample\obj\Debug\FirstExample.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\FirstExample\FirstExample\obj\Debug\FirstExample.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\FirstExample\FirstExample\obj\Debug\FirstExample.exe
+C:\Users\Ivan\source\repos\toc79\Csharp_Harsha\FirstExample\FirstExample\obj\Debug\FirstExample.pdb
