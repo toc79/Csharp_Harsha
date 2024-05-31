@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\SelectExample\SelectExample\bin\Debug\SelectExample.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\SelectExample\SelectExample\bin\Debug\SelectExample.exe
+G:\My Documents\Visual Studio 2022\CSharp\SelectExample\SelectExample\bin\Debug\SelectExample.pdb
+G:\My Documents\Visual Studio 2022\CSharp\SelectExample\SelectExample\obj\Debug\SelectExample.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\SelectExample\SelectExample\obj\Debug\SelectExample.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\SelectExample\SelectExample\obj\Debug\SelectExample.exe
+G:\My Documents\Visual Studio 2022\CSharp\SelectExample\SelectExample\obj\Debug\SelectExample.pdb

@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\BinaryExample\BinaryExample\bin\Debug\BinaryExample.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\BinaryExample\BinaryExample\bin\Debug\BinaryExample.exe
+G:\My Documents\Visual Studio 2022\CSharp\BinaryExample\BinaryExample\bin\Debug\BinaryExample.pdb
+G:\My Documents\Visual Studio 2022\CSharp\BinaryExample\BinaryExample\obj\Debug\BinaryExample.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\BinaryExample\BinaryExample\obj\Debug\BinaryExample.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\BinaryExample\BinaryExample\obj\Debug\BinaryExample.exe
+G:\My Documents\Visual Studio 2022\CSharp\BinaryExample\BinaryExample\obj\Debug\BinaryExample.pdb
