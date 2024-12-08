@@ -1,0 +1,7 @@
+G:\My Documents\Visual Studio 2022\CSharp\FIleIOExampleAsyncAwait1\FIleIOExampleAsyncAwait1\bin\Debug\FIleIOExampleAsyncAwait1.exe.config
+G:\My Documents\Visual Studio 2022\CSharp\FIleIOExampleAsyncAwait1\FIleIOExampleAsyncAwait1\bin\Debug\FIleIOExampleAsyncAwait1.exe
+G:\My Documents\Visual Studio 2022\CSharp\FIleIOExampleAsyncAwait1\FIleIOExampleAsyncAwait1\bin\Debug\FIleIOExampleAsyncAwait1.pdb
+G:\My Documents\Visual Studio 2022\CSharp\FIleIOExampleAsyncAwait1\FIleIOExampleAsyncAwait1\obj\Debug\FIleIOExampleAsyncAwait1.csproj.AssemblyReference.cache
+G:\My Documents\Visual Studio 2022\CSharp\FIleIOExampleAsyncAwait1\FIleIOExampleAsyncAwait1\obj\Debug\FIleIOExampleAsyncAwait1.csproj.CoreCompileInputs.cache
+G:\My Documents\Visual Studio 2022\CSharp\FIleIOExampleAsyncAwait1\FIleIOExampleAsyncAwait1\obj\Debug\FIleIOExampleAsyncAwait1.exe
+G:\My Documents\Visual Studio 2022\CSharp\FIleIOExampleAsyncAwait1\FIleIOExampleAsyncAwait1\obj\Debug\FIleIOExampleAsyncAwait1.pdb
